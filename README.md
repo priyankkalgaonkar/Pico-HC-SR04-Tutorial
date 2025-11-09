@@ -41,7 +41,7 @@ To integrate the sensor into a larger project using the native SDK:
 ## 📚 Documentation & Resources
 
 -   **[Full Tutorial PDF](./Pico%20with%20Ultrasonic%20Sensor%20Setup%20Tutorial.pdf)**: The complete guide, including detailed wiring, code walkthroughs, and porting instructions.
--   **Setup Photos**: [View on Google Drive](https://drive.google.com/file/d/1uuWfkQBvJBguCz356ivt6o4srlKgaldG/view?usp=sharing)
+-   **Setup Photos**: [View on Google Drive](./IMG_8944.JPG)
 -   **Video Demonstration**: [Watch on Google Drive](https://drive.google.com/file/d/1QmKfTkoE7Oyf5a5P5sVUFYssd_u46Xmk/view?usp=sharing)
 
 ---
